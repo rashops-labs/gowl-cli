@@ -1,0 +1,2 @@
+Gowl est une gestionnaire de tache intégrer au terminal.
+Description : un gestionnaire de tâches/notes ultra-minimaliste pour ton terminal, mais boosté à la détection de priorités (on va parser du texte en mode compiler design simplifié).
